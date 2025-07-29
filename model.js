@@ -1,10 +1,39 @@
 const anggotaData = {
-    Selena: ["Ariana (281..)", "Farhan (281..)", "Nadia (281..)"],
-    Nebula: ["Zidan (281..)", "Kirana (281..)", "Raka (281..)"],
-    Batozar: ["Gilang (281..)", "Dita (281..)", "Reno (281..)"],
-    Ceros: ["Iqbal (281..)", "Tasya (281..)", "Reza (281..)"],
-    Sagaras: ["Nina (281..)", "Rafi (281..)", "Laras (281..)"],
-    Komet: ["Tama (281..)", "Indah (281..)", "Fikri (281..)"]
+    Selena: [
+    "Mikhayla Pehulisa Beru Bangun", "Ralphy Christian",
+    "Aisha Marsetya Ramadhani", "Fathur Zaman", "Alya’ Nafi’ah Azzahra",
+    "Muhammad Farhan Ibnu Khasani", "Anisa Setiawati", "Dewi Citra Novianti",
+    "Ahmad Wildan Rasya", "Indah Nur Isnaeni"
+  ],
+  Nebula: [
+    "Khansa Felicia Smith", "Yastmine Kayla Machfuly", "Ayu Dwi Ananda",
+    "Muhammad Farel Alfhareza", "Faisal Afif Nur Tamam",
+    "Dhiannisa Qotrunnada Salsabila Herlani", "Kristine Angel Sitanggang",
+    "Raya Jamillah", "Alija Muhammad Haryosasono"
+  ],
+  Batozar: [
+    "Callula Zakira Permadi", "Dextra Gian Arfianto", "Najwa Alya Rahma",
+    "Puti Raveena Khairunnisa", "Yasawafi Mahfuzah Surya", "Ladinda Dzihni",
+    "Muhammad Fauzan Hermawan", "Ghina Rahil Muthiah",
+    "Jihan Aulia Parsa Damarjati", "Putri Fadiyah Salsabila"
+  ],
+  Ceros: [
+    "Silva Fathonah Nur Sholeha", "Kamilah Dewi Azaroh", "Annabel Kezia Liu",
+    "Mochamad Syafarijal", "Zaidan Muhammad Athaala", "Nashwa Bunga Arifa",
+    "Arnetta Dafina Teja", "Qyura Elsa Syafitri", "Firdaus Ramadhansyah"
+  ],
+  Sagaras: [
+    "Auliya Sabila", "Nadhifa Syakira", "Farid Darmawan",
+    "Rafli Ahmad Maulana", "Lubna Tajira Bakhita",
+    "Sarrah Justine Putri Azka Rana NZ", "Hanifa Trirasyida",
+    "Dio Ardiansyah Efendi", "Shafira Asty Yunita", "Reva Putri Mulyanti"
+  ],
+  Komet: [
+    "Aisya Anindyta Wibowo", "Nadia Aulia Maritza", "Abraham Oktaviander",
+    "Fildzah Alya Sifa", "La Ode Muhammad Arkan Hauzan",
+    "Crisna Setia Maruli Manurung", "Farel Chandra Saputra",
+    "Cantika Purnama Senjarani", "Aurellia Hasni"
+  ]
   };
 
   function showAnggota(nama) {
