@@ -21,37 +21,37 @@ a{
 
 
 .card-bg-selena{
-    background-image: url('../images/selena.jpeg');
+    background-image: url('../images/selena.PNG');
   background-size: cover;
   background-position: center;
   color: white;
 }
 .card-bg-nebula{
-    background-image: url('../images/nebula.jpeg');
+    background-image: url('../images/nebula.PNG');
   background-size: cover;
   background-position: center;
   color: white;
 }
 .card-bg-batozar{
-    background-image: url('../images/ceros\ dan\ batzar.jpeg');
+    background-image: url('../images/ceros.JPG');
   background-size: cover;
   background-position: center;
   color: white;
 }
 .card-bg-ceros{
-    background-image: url('../images/ceros\ dan\ batzar.jpeg');
+    background-image: url('../images/batozar.PNG');
   background-size: cover;
   background-position: center;
   color: white;
 }
 .card-bg-sagaras{
-    background-image: url('../images/sagaras.jpeg');
+    background-image: url('../images/sagara.PNG');
   background-size: cover;
   background-position: center;
   color: white;
 }
 .card-bg-komet{
-    background-image: url('../images/komet.jpeg');
+    background-image: url('../images/komet.PNG');
   background-size: cover;
   background-position: center;
   color: white;
