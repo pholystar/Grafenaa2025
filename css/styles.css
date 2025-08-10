@@ -33,13 +33,13 @@ a{
   color: white;
 }
 .card-bg-batozar{
-    background-image: url('../images/batozar.JPG');
+    background-image: url('../images/batozar.PNG');
   background-size: cover;
   background-position: center;
   color: white;
 }
 .card-bg-ceros{
-    background-image: url('../images/ceros.PNG');
+    background-image: url('../images/ceros.JPG');
   background-size: cover;
   background-position: center;
   color: white;
@@ -102,5 +102,6 @@ a{
 .list-group li{
     font-size: small;
 }
+
 
 
