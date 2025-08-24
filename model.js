@@ -32,7 +32,7 @@ const anggotaData = {
     "Aisya Anindyta Wibowo", "Nadia Aulia Maritza", "Abraham Oktaviander",
     "Fildzah Alya Sifa", "La Ode Muhammad Arkan Hauzan",
     "Crisna Setia Maruli Manurung", "Farel Chandra Saputra",
-    "Cantika Purnama Senjarani", "Aurellia Hasni"
+    "Cantika Purnama Senjarani", "Aurellia Hasni", "Shabina Muthia Nanda"
   ]
   };
 
@@ -51,3 +51,4 @@ const modal = document.getElementById('detailModal');
     const modalImage = modal.querySelector('#modalImage');
     modalImage.src = imgSrc;
   });
+
