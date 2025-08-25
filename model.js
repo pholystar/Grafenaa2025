@@ -20,7 +20,7 @@ const anggotaData = {
   Ceros: [
     "Silva Fathonah Nur Sholeha", "Kamilah Dewi Azaroh", "Annabel Kezia Liu",
     "Mochamad Syafarijal", "Zaidan Muhammad Athaala", "Nashwa Bunga Arifa",
-    "Arnetta Dafina Teja", "Qyura Elsa Syafitri", "Firdaus Ramadhansyah"
+    "Arnetta Dafina Teja", "Qyura Elsa Syafitri", "Firdaus Ramadhansyah", "Shaista Mahdiya"
   ],
   Sagaras: [
     "Auliya Sabila", "Nadhifa Syakira", "Farid Darmawan",
@@ -51,5 +51,6 @@ const modal = document.getElementById('detailModal');
     const modalImage = modal.querySelector('#modalImage');
     modalImage.src = imgSrc;
   });
+
 
 
