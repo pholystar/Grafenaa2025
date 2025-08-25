@@ -9,7 +9,7 @@ const anggotaData = {
     "Khansa Felicia Smith", "Yastmine Kayla Machfuly", "Ayu Dwi Ananda",
     "Muhammad Farel Alfhareza", "Faisal Afif Nur Tamam",
     "Dhiannisa Qotrunnada Salsabila Herlani", "Kristine Angel Sitanggang",
-    "Raya Jamillah", "Alija Muhammad Haryosasono"
+    "Raya Jamillah", "Alija Muhammad Haryosasono", "Gabriel Revolvere Sembiring"
   ],
   Batozar: [
     "Callula Zakira Permadi", "Dextra Gian Arfianto", "Najwa Alya Rahma",
@@ -51,4 +51,5 @@ const modal = document.getElementById('detailModal');
     const modalImage = modal.querySelector('#modalImage');
     modalImage.src = imgSrc;
   });
+
 
